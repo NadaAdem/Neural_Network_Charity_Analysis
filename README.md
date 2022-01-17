@@ -26,7 +26,7 @@ Result was  an accuracy of 0.73 %  then  optimize the model by increasing the ac
 
 The following methods were attempted was use to optimization  in this analysis were able to produce a model with a predictive accuracy level of 75% or higher but none of them help to improve  Accuracy  value. 
 
- -Dropping more or fewer columns.
+- Dropping more or fewer columns.
 - Creating more bins for rare occurrences in columns.
 - Increasing or decreasing the number of values for each bin.
 - Adding more neurons to a hidden layer.
